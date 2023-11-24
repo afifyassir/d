@@ -1,8 +1,5 @@
 from pathlib import Path
-from typing import Optional, Sequence
 
-from pydantic import BaseModel
-from strictyaml import YAML, load
 
 import model
 
