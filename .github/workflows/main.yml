@@ -22,7 +22,4 @@ jobs:
     - name: Change working directory
       run: | 
         cd ./config
-        pwd 
-    - name: runing the core.py
-      run: |
         python core.py
